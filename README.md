@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiolongo - Aspiring Web Developer - Beginner
+- 👋 Hi, I’m @jiolongo - Software Engineer - Beginner
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript/Reactjs
 - 💞️ I’m looking to collaborate on ...
